@@ -36,7 +36,7 @@ Advanced Telegram Bot Infrastructure / Gelişmiş Telegram Bot Altyapısı
 - Monitoring logs via console
 - and dozens of other features that I am too lazy to write...!
 
-# ✨ ✨ Features and projects to be added as stars arrive ✨ ✨
+# ✨Features and projects to be added as stars arrive✨
 
 - Bot to Log Chat History -> 2 Star ✨
 - Creating Admin Specific Command -> 5 Stars ✨
