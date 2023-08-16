@@ -17,8 +17,7 @@ Advanced Telegram Bot Infrastructure / Gelişmiş Telegram Bot Altyapısı
 
 ![image](https://github.com/fastuptime/Advanced_Telegram_Bot_Infrastructure/assets/63351166/7ef24dff-f5e0-4ae3-b590-092dbb7eabd7)
 
-
-# Installation
+# 🛠️ Installation 🛠️
 
 - Download and install [NodeJs](https://nodejs.org/en/download) on your computer.
 - Download the project as Zip to your computer and unzip it.
@@ -28,7 +27,8 @@ Advanced Telegram Bot Infrastructure / Gelişmiş Telegram Bot Altyapısı
 - Start the bot by entering the following command in Terminal
 `node .`
 
-# Features of the bot
+
+# 🎈 Features of the bot 🎈
 
 - Thanks to CoolDown, prevent spamming commands and avoid performance loss
 - 100% Simplified command generation
@@ -38,7 +38,8 @@ Advanced Telegram Bot Infrastructure / Gelişmiş Telegram Bot Altyapısı
 
 # ✨Features and projects to be added as stars arrive✨
 
-- Bot to Log Chat History -> 2 Star ✨
+- ~~Advanced Telegram Bot Infrastructure~~ [Done GitHub Link](https://github.com/fastuptime/Advanced_Telegram_Bot_Infrastructure)
+- ~~Bot to Log Chat History -> 2 Star ✨~~ [Done GitHub Link](https://github.com/fastuptime/Telegram_Chat_Logger_Bot)
 - Creating Admin Specific Command -> 5 Stars ✨
 - Maintenance Mode -> 10 Stars ✨
 - Ability to Blacklist Users and Prevent Them from Using the Bot -> 15 Stars ✨
@@ -48,17 +49,19 @@ Advanced Telegram Bot Infrastructure / Gelişmiş Telegram Bot Altyapısı
 - Telegram Bot with Advanced Web Panel -> 50 Stars ✨
 - Premium Membership System and Special Commands for Premium Members -> 75 Stars ✨
 
-## Tech Stack
+## ⛳Tech Stack ⛳
 
-**Server:** Node, telegraf, colors, moment, croxydb
+**🗄️ Server:** Node, telegraf, colors, moment, croxydb
 
 ---
-- ✨ [Destek İçin](https://fastuptime.com) <br>
+- ✨ [For Support](https://github.com/sponsors/fastuptime) <br>
 - 💕 [Discord](https://fastuptime.com/discord)<br>
-- 🎖️ [FasterHost Technology](https://fasterhost.tech/)<br>
-- ✨ İletişim için [Tıkla!](mailto:fastuptime@gmail.com)<br>
+- 🏓 [Fast Uptime](https://fastuptime.com/)<br>
+- 🪄 All kinds of projects are made <br>
+- 🧨 You can contact us to make a paid project<br>
+- ☄️ [Click For Contact](mailto:fastuptime@gmail.com)<br>
 
-# License
-- Its protected by Creative Commons ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
+# 🎯 License 🎯
+- ⚖️ Its protected by Creative Commons ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="BYNCSA40"><img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"></a>
