@@ -1,0 +1,30 @@
+{
+  "name": "fast-tel-bot",
+  "version": "1.0.0",
+  "description": "Fast Tel Bot Template for Telegram",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "fast",
+    "tel",
+    "bot",
+    "template",
+    "telegram",
+    "gelişmiş telegram bot",
+    "gelişmiş",
+    "telegram bot",
+    "gelişmiş telegram bot template",
+    "altyapı",
+    "altyapılar"
+  ],
+  "author": "Can & FastUptime",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.10",
+    "glob": "^7.2.0",
+    "telegraf": "^4.12.2"
+  }
+}
