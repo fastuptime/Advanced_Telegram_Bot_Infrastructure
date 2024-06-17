@@ -40,7 +40,7 @@ Advanced Telegram Bot Infrastructure Creating Admin Specific Command
 
 - ~~Advanced Telegram Bot Infrastructure~~ [Done GitHub Link](https://github.com/fastuptime/Advanced_Telegram_Bot_Infrastructure)
 - ~~Bot to Log Chat History -> 2 Star ✨~~ [Done GitHub Link](https://github.com/fastuptime/Telegram_Chat_Logger_Bot)
-- Creating Admin Specific Command -> 5 Stars ✨
+- ~~Creating Admin Specific Command -> 5 Stars ✨~~[Done Github Link](https://github.com/fastuptime/Advanced_Telegram_Bot_Infrastructure_Admin_Specific_Command)
 - Maintenance Mode -> 10 Stars ✨
 - Ability to Blacklist Users and Prevent Them from Using the Bot -> 15 Stars ✨
 - i18n Multi-Language Support -> 20 Stars ✨
