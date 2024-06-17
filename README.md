@@ -1,5 +1,5 @@
-# Advanced_Telegram_Bot_Infrastructure
-Advanced Telegram Bot Infrastructure / Gelişmiş Telegram Bot Altyapısı
+# Advanced_Telegram_Bot_Infrastructure_Admin_Specific_Command
+Advanced Telegram Bot Infrastructure Creating Admin Specific Command
 
 # Creating a Sample Command
 

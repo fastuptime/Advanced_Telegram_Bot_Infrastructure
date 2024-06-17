@@ -2,6 +2,7 @@ module.exports = {
     name: 'math',
     description: 'Math command',
     cooldown: 50,
+    admin: false,
     options: [
         {
             name: 'operation',

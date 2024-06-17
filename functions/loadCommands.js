@@ -20,7 +20,7 @@ module.exports = function (client, ops) {
             console.log(colors.green(`[+] ${moment().format(("YYYY-MM-DD HH:mm:ss"))}`) + colors.yellow(` > Yüklenen komut: ${props.name}`));
 
             bot.command(props.name, (ctx) => {
-                
+                if(props.admin && !config.admins.includes(ctx.from.id)) return ctx.reply("Bu komutu kullanabilmek için yetkiniz yok.");
                 if (props.cooldown) {
                     if (localdb.has(`cooldown.${ctx.from.id}.${props.name}`)) {
                         let cooldown = localdb.fetch(`cooldown.${ctx.from.id}.${props.name}`);
